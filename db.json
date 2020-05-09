@@ -1,0 +1,39 @@
+{
+    "products":[
+      {
+        "Id":0,
+        "Name":"TeddyBear",
+        "Quantity":1,
+        "Price":"3000.00"
+      },
+      {
+        "Id":1,
+        "Name":"Fastrackwatch",
+        "Quantity":1,
+        "Price":"4000.00"
+      },
+      {
+        "Id":2,
+        "ProductName":"Sonatawatch",
+        "Quantity":2,
+        "Price":"60000.00"
+      }
+    ],
+    "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  }
